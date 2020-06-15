@@ -1,0 +1,35 @@
+_repo: An-epitome-of-astronomy-with-the-new-discoveries-including-an-account-of-the-eidouranion-or-t__62362
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Walker, A. (Adam)
+    alias: Walker, Adam
+    birthdate: 1730
+    deathdate: 1821
+    gutenberg_agent_id: '51903'
+    url: http://www.gutenberg.org/2009/agents/51903
+    wikipedia: https://en.wikipedia.org/wiki/Adam_Walker_(inventor)
+creator:
+  author:
+    agent_name: Walker, William
+    alias: Walker, W. (William)
+    deathdate: 1816
+    gutenberg_agent_id: '51902'
+    url: http://www.gutenberg.org/2009/agents/51902
+description: ''
+gutenberg_issued: '2020-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomical models'
+- !lcc 'QB'
+- !lcsh 'Astronomy'
+- GITenberg
+title: "An epitome of astronomy, with the new discoveries\r\nincluding an account\
+  \ of the eídouraníon, or transparent orrery"
+url: http://www.gutenberg.org/ebooks/62362
